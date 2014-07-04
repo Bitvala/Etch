@@ -8,8 +8,8 @@
 }
 #container {
         border: 1px dashed #8F8F8F;
-	width: 1000px;
-	height: 800px;
+	width: 900px;
+	height: 900px;
 }
 td, tr {
 	width:auto;
@@ -23,4 +23,7 @@ table {
 	width:100%;
 	height:100%;
 	table-layout:fixed;
+}
+body{
+	justify-content: center;
 }
